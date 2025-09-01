@@ -15,3 +15,4 @@ This is the 1st sample repository.
      - second nested list item
        
 > made a change to compair and pull and also add changes to the main branch 
+its an update to the branch
