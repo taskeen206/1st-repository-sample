@@ -19,3 +19,26 @@ This is the 1st sample repository.
 - python
 - c++
   
+ # Heading
+ **bold**\
+ *italic*\
+***bold and italic***\
+ ~~strikethrough~~
+
+ ```c
+
+ #include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+ ```
+ 
+## To-Do List
+* ASSIGNMENT
+* QUIZ
+* HOME TASK
+  
+
+
